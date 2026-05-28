@@ -41,7 +41,7 @@ const Footer = () => {
       <div>
         <hr />
         <p className="py-5 text-sm text-center">
-          Copyright © 2024 ElyséeDev - All Right Reserved
+          CareSync © 2026
         </p>
       </div>
     </div>
